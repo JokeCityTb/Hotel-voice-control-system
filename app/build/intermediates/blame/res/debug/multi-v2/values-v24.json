@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/10712c4cf7ff9dc69df1409b6ec3cc46/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

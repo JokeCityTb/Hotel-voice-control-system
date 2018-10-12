@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:id="@+id/ly_receive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/english_us"
+        android:layout_marginRight="20dp"
+        android:padding="20dp">
+
+    <TextView
+        android:id="@+id/tv_receive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tv_receive_other"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:gravity="left"
+            android:textSize="14sp"
+            android:drawableRight="@drawable/yinliang_icom" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ly_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="end"
+        android:background="@drawable/chain_cn"
+        android:layout_marginLeft="20dp"
+        android:padding="20dp">
+        <TextView
+            android:id="@+id/tv_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:gravity="left"
+            android:textSize="14sp"/>
+        <TextView
+            android:id="@+id/tv_send_other"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:drawableRight="@drawable/yinliang_icom"/>
+    </LinearLayout>
+</LinearLayout>

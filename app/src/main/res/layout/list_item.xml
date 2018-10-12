@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:gravity="left"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/usa" />
+        <LinearLayout
+            android:layout_width="420dp"
+            android:layout_height="240dp"
+            android:padding="20dp"
+            android:layout_marginTop="25dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@drawable/english_us">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_18"
+                android:layout_gravity="center_horizontal"
+                android:text="欢迎来到深圳"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/fenge"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/text_size_18"
+                android:text="Welcome to Shenzhen"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom|right"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="420dp"
+            android:layout_height="240dp"
+            android:padding="5dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@drawable/chain_cn">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_18"
+                android:layout_gravity="center_horizontal"
+                android:text="欢迎来到深圳"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/fenge"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/text_size_18"
+                android:text="Welcome to Shenzhen"
+                />
+        </LinearLayout>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/chain" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

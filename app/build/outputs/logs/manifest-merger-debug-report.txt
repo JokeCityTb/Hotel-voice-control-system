@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+provider#com.pgyersdk.PgyerProvider
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:49:9-52:39
+	android:authorities
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:51:13-70
+	android:exported
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:50:13-54
+manifest
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:1-67:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0bd17b66e9c75dd31f291c3b4e88ad68/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/10712c4cf7ff9dc69df1409b6ec3cc46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/FlycoTabLayout_Lib-2.1.2.aar/6c98f439c93b50604efba41ea0fe6103/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/711905d22a43027cb9863e1f76d022e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/dbf5520965d5bf4767caf8fa8ffc98ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/595473e7cc5dd5b273adc1611e5d024b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/b72799317df4edea2ad15ac22bc99d2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/4cc69df0f6082c419a29e4455dc4e392/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/ea77a33671a2b8836c12eeab3069cb19/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0bd17b66e9c75dd31f291c3b4e88ad68/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0bd17b66e9c75dd31f291c3b4e88ad68/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/10712c4cf7ff9dc69df1409b6ec3cc46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/10712c4cf7ff9dc69df1409b6ec3cc46/AndroidManifest.xml:20:5-44
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/FlycoTabLayout_Lib-2.1.2.aar/6c98f439c93b50604efba41ea0fe6103/AndroidManifest.xml:8:5-10:41
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/FlycoTabLayout_Lib-2.1.2.aar/6c98f439c93b50604efba41ea0fe6103/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/711905d22a43027cb9863e1f76d022e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/711905d22a43027cb9863e1f76d022e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/dbf5520965d5bf4767caf8fa8ffc98ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/dbf5520965d5bf4767caf8fa8ffc98ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/595473e7cc5dd5b273adc1611e5d024b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/595473e7cc5dd5b273adc1611e5d024b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/b72799317df4edea2ad15ac22bc99d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/b72799317df4edea2ad15ac22bc99d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/4cc69df0f6082c419a29e4455dc4e392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/4cc69df0f6082c419a29e4455dc4e392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/ea77a33671a2b8836c12eeab3069cb19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/ea77a33671a2b8836c12eeab3069cb19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:26:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:27:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:28:22-65
+application
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:30:5-65:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0bd17b66e9c75dd31f291c3b4e88ad68/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0bd17b66e9c75dd31f291c3b4e88ad68/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:34:9-47
+	android:icon
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:33:9-45
+	android:allowBackup
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:31:9-35
+activity#com.eningqu.emeeting.activity.MainActivity
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:36:9-47:20
+	android:screenOrientation
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:38:13-50
+	android:theme
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:37:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:40:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.HOME
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:43:17-73
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:43:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:44:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:45:27-74
+meta-data#PGYER_APPID
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:54:9-57:21
+	android:value
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:56:13-61
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:55:13-39
+meta-data#IFLYTEK_APPKEY
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:59:9-61:42
+	android:value
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:61:13-29
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:60:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:62:9-64:44
+	android:value
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:64:13-41
+	android:name
+		ADDED from /Users/ruiwenli/Desktop/酒店声控系统/酒店命令词/voiceOrder/emeeting/app/src/main/AndroidManifest.xml:63:13-43
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ruiwenli/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/26f51f76f366624f3ed9721fe038cc5c/AndroidManifest.xml:26:13-58

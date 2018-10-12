@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_label_name">酒店声控系统</string>
+    <string name="app_recodeBtn">开始</string>
+    <string name="app_id">5b95cc0b</string>
+    <string name="setting_wifi">连接WIFI</string>
+    <string name="setting_update">在线升级</string>
+   <string name="setting_devices">设备IMEI号</string>
+    <string name="setting_about">版本号</string>
+    <!--<string name="setting_about">关于</string>    -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

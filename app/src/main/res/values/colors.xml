@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#81b36b</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="green_009688">#009688</color>
+    <color name="white_F5F5F5">#F5F5F5</color>
+
+    <color name="color_000000">#000000</color>
+    <color name="color_E60012">#E60012</color>
+    <color name="color_920783">#920783</color>
+    <color name="color_01B8C3">#01B8C3</color>
+    <color name="color_F5E80B">#F5E80B</color>
+    <color name="color_45D151">#45D151</color>
+
+    <color name="color_007294">#007294</color>
+    <color name="color_016E8D">#016E8D</color>
+    <color name="color_859FA5">#859FA5</color>
+    <color name="color_9DB2B7">#9DB2B7</color>
+    <color name="color_F9794C">#F9794C</color>
+    <color name="color_FA7940">#FA7940</color>
+    <color name="color_0D7993">#0D7993</color>
+    <color name="color_3D94A9">#3D94A9</color>
+    <color name="color_747474">#747474</color>
+    <color name="color_198599">#198599</color>
+    <color name="color_E5F0F4">#E5F0F4</color>
+    <color name="color_AED6DB">#AED6DB</color>
+    <color name="color_BEC0C1">#BEC0C1</color>
+
+    <color name="app_login_color">#B6B6B6</color>
+    <color name="speeching_color">#ffffff</color>
+
+</resources>

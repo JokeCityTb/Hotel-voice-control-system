@@ -1,0 +1,104 @@
+-optimizationpasses 5                   # 指定代码的压缩级别
+-dontusemixedcaseclassnames             # 指定代码的压缩级别
+-dontskipnonpubliclibraryclasses        # 是否混淆第三方jar
+-dontpreverify                          # 混淆时是否做预校验
+-dontoptimize
+-ignorewarning                          # 忽略警告，避免打包时某些警告出现
+-verbose                                # 混淆时是否记录日志
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*    # 混淆时所采用的算法
+
+#不需混淆的Android类
+-keep public class * extends android.app.Fragment
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.AppCompatActivity
+-keep public class * extends android.app.Application
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.preference.Preference
+-keep public class * extends android.content.ContentProvider
+-keep public class * extends android.support.v4.**
+-keep public class * extends android.support.annotation.**
+-keep public class * extends android.support.v7.**
+-keep public class * extends android.support.test.espresso.**
+
+-keepattributes SourceFile,LineNumberTable#泛型
+-keepclasseswithmembernames class * {
+    native <methods>;
+}
+# Explicitly preserve all serialization members. The Serializable interface
+# is only a marker interface, so it wouldn't save them.
+-keepclassmembers class * implements java.io.Serializable {
+    static final long serialVersionUID;
+    private static final java.io.ObjectStreamField[] serialPersistentFields;
+    private void writeObject(java.io.ObjectOutputStream);
+    private void readObject(java.io.ObjectInputStream);
+    java.lang.Object writeReplace();
+    java.lang.Object readResolve();
+}
+
+-keep public class * implements java.io.Serializable {*;}
+-keepclasseswithmembernames class * {
+    public <init>(android.content.Context, android.util.AttributeSet);
+}
+
+-keepclasseswithmembernames class * {
+    public <init>(android.content.Context, android.util.AttributeSet, int);
+}
+
+-keep public class * extends android.view.View{
+        *** get*();
+        void set*(***);
+        public <init>(android.content.Context);
+        public <init>(android.content.Context,android.util.AttributeSet);
+        public <init>(android.content.Context,android.util.AttributeSet,int);
+}
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keep class * implements android.os.Parcelable {
+  public static final android.os.Parcelable$Creator *;
+}
+
+-keepattributes InnerClasses
+
+-dontwarn com.pgyersdk.**
+-keep class com.pgyersdk.** {*;}
+
+#okhttp
+-dontwarn okhttp3.**
+-keep class okhttp3.**{*;}
+
+#okio
+-dontwarn okio.**
+-keep class okio.**{*;}
+
+
+-ignorewarnings
+-libraryjars libs/YoudaoBase.jar
+-libraryjars libs/YoudaoCnDictOffline.jar
+-libraryjars libs/YoudaoTranslateOnline.jar
+-libraryjars libs/YoudaoTranslateOffline.jar
+
+-keep class com.youdao.sdk.ydtranslate.** { *;}
+-keep class com.youdao.sdk.chdict.** { *;}
+-keep class com.youdao.localtransengine.** { *;}
+-keep class com.youdao.sdk.ydonlinetranslate.** { *;}
+
+
+-keep class com.iflytek.**{*;}
+-keepattributes Signature
+
+
+-keepclassmembers class * implements com.aispeech.AIEngine$*{public *;}
+
+-keepnames class com.aispeech.AIEngine$*{
+   public <fields>;
+   public <methods>;
+}
+
+#keep native method
+-keepclassmembers class com.aispeech.AIEngine{
+   public static native <methods>;
+}
